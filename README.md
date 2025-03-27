@@ -11,3 +11,9 @@ This project is an AI-powered virtual fashion assistant that helps users select 
 1. Clone this repository:
    ```sh
    git clone https://github.com/shahlashalu/FashionSegmentationApp.git
+
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes from GitHub
+>>>>>>> fa8a3b3
